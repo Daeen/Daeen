@@ -1,7 +1,7 @@
  ### I'm Daeen Kabir.
 ---
 
-I'm an aspiring machine learning engineering and researcher, with keen interest in language and vision-related tasks, transformers and associated multi-modal architectures.
+I'm an aspiring machine learning engineer and researcher, with keen interest in language and vision-related tasks, transformers and associated multi-modal architectures.
 
 I also have hands-on implementation background in deep learning architecture and machine learning pipelines, and extensive knowledge on many deep learning methods.
 
