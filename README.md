@@ -5,7 +5,7 @@ I'm an aspiring machine learning engineer and researcher, with keen interest in 
 
 I also have hands-on implementation background in deep learning architecture and machine learning pipelines, and extensive knowledge on many deep learning methods.
 
-I'm currently a 3rd year undergraduate student of computer science (major) and electrical engineering (minor) in Korea Advanced Institute of Science and Technology (KAIST).
+I'm currently a 4th year undergraduate student of computer science (major) and electrical engineering (minor) in Korea Advanced Institute of Science and Technology (KAIST).
 
 Check Out [My CV](https://drive.google.com/file/d/1H4GaFBWvJ7GqQXyhVt3K-imB1BHTKOrX/view?usp=sharing)
 
