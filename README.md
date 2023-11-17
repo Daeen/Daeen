@@ -7,7 +7,7 @@ I also have hands-on implementation background in deep learning architecture and
 
 I'm currently a 4th year undergraduate student of computer science (major) and electrical engineering (minor) in Korea Advanced Institute of Science and Technology (KAIST).
 
-Check Out [My CV](https://drive.google.com/file/d/1H4GaFBWvJ7GqQXyhVt3K-imB1BHTKOrX/view?usp=sharing)
+Check Out [My CV](https://drive.google.com/file/d/12dAen_RJ22SxO-x37me_JK86JGPL3cd1/view)
 
 ---
 
