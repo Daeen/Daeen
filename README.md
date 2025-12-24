@@ -1,12 +1,8 @@
  ### I'm Daeen Kabir.
 ---
-
-I'm an aspiring machine learning engineer and researcher, with keen interest in language and vision-related tasks, transformers and associated multi-modal architectures.
-
+Graduated from Korea Advanced Institute of Science and Technology (KAIST), with a major in CS, minor in EE, and semi-minor in AI.
+Aspiring machine learning engineer and researcher, with keen interest in 3D vision and embodied AI agents.
 I also have hands-on implementation background in deep learning architecture and machine learning pipelines, and extensive knowledge on many deep learning methods.
-
-I'm currently a 4th year undergraduate student of computer science (major) and electrical engineering (minor) in Korea Advanced Institute of Science and Technology (KAIST).
-
 Also check out my [Wesbite](https://daeen.github.io/)
 
 ---
